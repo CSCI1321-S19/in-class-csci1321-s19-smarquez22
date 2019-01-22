@@ -12,3 +12,4 @@ object HelloWorld {
 	
 	def cube(x: Double) = x*x*x
 }
+
