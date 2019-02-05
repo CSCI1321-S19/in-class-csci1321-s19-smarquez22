@@ -1,0 +1,19 @@
+3
+CSI 257
+It's a classroom.
+2
+chair
+You sit on it.
+computer
+For video games.
+-1,1,-1,-1,-1,-1
+Hall
+Connects rooms
+0
+0,-1,2,-1,-1,-1
+Broadway
+A bigger hall
+1
+table
+A place to put stuff.
+-1,-1,-1,1,-1,-1
